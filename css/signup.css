@@ -30,6 +30,7 @@ body {
 	border-width: 5px;
 	border-radius: 5px;
 	border-color: #c5f5f0;
+	font-weight: bold;
 }
 
 .signup-form .form-control {
