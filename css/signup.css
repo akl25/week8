@@ -5,17 +5,29 @@ body {
 	margin: 0 auto;
 	padding: 0;
 	position: relative;
+	font-family: "Times New Roman";
 }
 
-h2 {
-	background-color: dodgerblue;
+.signup-heading-form {
+	background-color: #3CBC8D;
 	text-align: center;
 }
 
 .btn-primary {
-	font-size: 24px;
+	font-size: 26px;
+	transition-duration: 0.4s;
 }
 
 .btn-primary:hover {
 	color: #56b4e9;
+}
+
+.signup-form .form-control {
+	position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    height: 35px;
 }
