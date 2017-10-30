@@ -1,5 +1,5 @@
 body {
-	background: url(https://i.imgur.com/7wUvnKc.gif) no-repeat center fixed;
+	background: url(https://i.stack.imgur.com/p9mUO.jpg) no-repeat center fixed;
 	background-size: 100% 100%;
 	color: #ffffff;
 	margin: 0 auto;
@@ -12,6 +12,7 @@ body {
 	background-color: #3CBC8D;
 	text-align: center;
 	border-radius: 10px;
+	color: #000000;
 }
 
 .btn-primary {
