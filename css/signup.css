@@ -29,6 +29,7 @@ body {
 	border-style: solid;
 	border-width: 5px;
 	border-radius: 5px;
+	border-color: #c5f5f0;
 }
 
 .signup-form .form-control {
