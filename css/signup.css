@@ -11,8 +11,7 @@ body {
 .signup-heading-form {
 	background-color: #3CBC8D;
 	text-align: center;
-	border-radius: 15px;
-	text-decoration: underline;
+	border-radius: 10px;
 }
 
 .btn-primary {
@@ -22,6 +21,14 @@ body {
 
 .btn-primary:hover {
 	color: #56b4e9;
+}
+
+.signup-form {
+	position: relative;
+	top: 60px;
+	border-style: solid;
+	border-width: 5px;
+	border-radius: 5px;
 }
 
 .signup-form .form-control {
