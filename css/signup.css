@@ -11,6 +11,8 @@ body {
 .signup-heading-form {
 	background-color: #3CBC8D;
 	text-align: center;
+	border-radius: 15px;
+	text-decoration: underline;
 }
 
 .btn-primary {
