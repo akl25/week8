@@ -44,6 +44,15 @@ body {
     height: 35px;
 }
 
+@keyframes example {
+	from {left: -200px;}
+	to {left: 1315px;}
+}
+
 .img-cat {
 	position: absolute;
+	left: -200px;
+	animation-name: example;
+	animation-duration: 10s;
+	animation-iteration-count: infinite;
 }
